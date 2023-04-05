@@ -1,0 +1,47 @@
+/* Thiết lập font chữ chính cho trang web */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Thiết lập phần đầu trang web */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Thiết lập tiêu đề cho trang web */
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  /* Thiết lập bảng cho trang web */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #444;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Thiết lập hình ảnh cho trang web */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
